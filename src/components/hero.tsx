@@ -12,7 +12,8 @@ function Hero() {
         <p className="text-gray-500">Description of product 1</p>
       </div>
     </div>
-  </main></div>
+  </main>
+  </div>
   )
 }
 

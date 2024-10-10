@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 export default function App() {
     return (
       <section className="py-20 bg-gray-100">
@@ -6,10 +8,10 @@ export default function App() {
           <p className="mt-4 text-lg text-gray-700">
             Get a 10% voucher when you download our app and make your first purchase.
           </p>
-          {/* <div className="mt-6 flex justify-center space-x-4">
-            <img src="/images/app-store.png" alt="App Store" className="h-10" />
-            <img src="/images/google-play.png" alt="Google Play" className="h-10" />
-          </div> */}
+          <div className="mt-6 flex justify-center space-x-4">
+            <Image src="/app store.png"height={100} width={100}alt="App Store" className="h-10" />
+            <Image src="/google.png"height={100} width={100} alt="Google Play" className="h-10" />
+          </div>
         </div>
       </section>
     );

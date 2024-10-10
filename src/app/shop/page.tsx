@@ -1,9 +1,10 @@
+import Product from '@/components/product'
 import React from 'react'
 
 const Shop = () => {
   return (
     <div>
-      <h1>this is shop page</h1>
+      <Product />
     </div>
   )
 }
