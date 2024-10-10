@@ -13,7 +13,7 @@ const About = () => {
               About Us
             </h2>
             <p className="mt-4 max-w-2xl text-xl text-gray-500 mx-auto">
-              Welcome to [Fashion Shop], your number one source for all things fashion. We're dedicated to providing you the very best of fashion, with an emphasis on quality, style, and uniqueness.
+              Welcome to [Fashion Shop], your number one source for all things fashion. We are dedicated to providing you the very best of fashion with an emphasis on quality style and uniqueness.
             </p>
           </div>
 
@@ -30,12 +30,12 @@ const About = () => {
             <div className="flex flex-col justify-center">
               <h3 className="text-2xl font-bold text-gray-900">Our Story</h3>
               <p className="mt-4 text-gray-500">
-                Founded in [2023], [Fashion Shop] has come a long way from its beginnings in [GARDEN]. When we first started out, our passion for eco-friendly, high-quality clothing drove us to start our own business. Today, we serve customers all over [PAKISTAN], and we are thrilled to be a part of the eco-friendly, fair-trade wing of the fashion industry.
+                Founded in [2023] [Fashion Shop] has come a long way from its beginnings in [GARDEN] When we first started out our passion for eco friendly high quality clothing drove us to start our own business. Today we serve customers all over [PAKISTAN] and we are thrilled to be a part of the eco-friendly fair-trade wing of the fashion industry.
               </p>
               <p className="mt-4 text-gray-500">
-                We hope you enjoy our products as much as we enjoy offering them to you. If you have any questions or comments, please don't hesitate to contact us.
+                We hope you enjoy our products as much as we enjoy offering them to you. If you have any questions or comments please do not hesitate to contact us.
               </p>
-              <p className="mt-4 text-gray-500">Sincerely, <br /> [AQSA MEMON], Founder</p>
+              <p className="mt-4 text-gray-500">Sincerely <br /> [AQSA MEMON] Founder</p>
             </div>
           </div>
         </div>
